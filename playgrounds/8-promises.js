@@ -1,0 +1,1 @@
+const doWorkPromise = new Promise();
